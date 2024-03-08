@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - EventSystem
+  - slime1
+  - slime2
+  - slime3
+  - wolf4
+  - wolf5
+  - lightning
+  - zombie6
+  - shield_zombie
+  - ghost7
+  - shield_ghost7
+  - fireball7
+  - ghost8
+  - fireball8
+  - shield_ghost8
+  - mutant9
+  - shield9
+  - lightning9
+  - zap_player9
+  - zap_player10
+  - mutant10
+  - lightning10
+  - shield10
+  - recall
+  - menu
+  - bg_black
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
