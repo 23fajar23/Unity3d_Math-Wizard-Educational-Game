@@ -8,9 +8,8 @@ So in this time I want to share another project with you, previously I shared a 
 
 There are several types of characters in this game, as can be seen below :
 
-<center>
 
-<table width="100%" border=0>
+<table width="100%" border=0 align="center">
     <tr>
         <td align="center" colspan=3>
         ~~ Character Preview ~~
@@ -94,8 +93,6 @@ There are several types of characters in this game, as can be seen below :
         </td>
     </tr>
 </table>
-
-</center>
 
 ---
 <br>
